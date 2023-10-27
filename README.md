@@ -1,6 +1,6 @@
 # rammerhead
 
-> proxy based on testcafe-hammerhead (password is `sharkie4life`)
+> proxy based on testcafe-hammerhead (password is `pdxmelonontop`)
 
 Demo link: https://demo-opensource.rammerhead.org
 
