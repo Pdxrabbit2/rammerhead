@@ -25,6 +25,7 @@
   "homepage": "https://github.com/binary-person/rammerhead#readme",
   "dependencies": {
     "async-exit-hook": "^2.0.1",
+    "dotenv-flow": "^4.0.0",
     "lru-cache": "^7.14.1",
     "mime": "^2.5.2",
     "ms": "^2.1.3",
